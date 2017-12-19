@@ -11,7 +11,7 @@
 ### The numbered list below is from the original Readme. I'm only doing the following:
 * **Code minimum an hour every day for the next 100 days.**
 * Keeping a [Log](log.md) in this repo 
-* [Blog](https://github.com/yanoak/yans-blog) once a week on progress and/or when I finish a project
+* [Blog](https://yanoak.github.io/yans-blog/) once a week on progress and/or when I finish a project
 * Tweet with #100DaysOfCode once a week on progress and/or when I finish a project [@yanoak](https://twitter.com/yanoak)
 
 0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect 
