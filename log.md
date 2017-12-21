@@ -16,3 +16,18 @@
 
 **Link to work:** [100 Days of Code](https://github.com/yanoak/100-days-of-code/commit/5fe8fac1d8d06fb57b3b567fb54c55eb89d14dd3)
 
+### Day 2: 19 December 2017 (Tuesday)
+
+**Today's Progress**: Added functionality 
+
+**Thoughts:** First day that I felt I put in a bit of effort.
+
+**Link to work:** [Jade Companies Network](https://github.com/yanoak/jade-company-network/commit/9db385d5cc98af0af7ac5afba4bf08a9dfcd5a28)
+
+### Day 3: 20 December 2017 (Wednesday)
+
+**Today's Progress**: None
+
+**Thoughts:** **For shame**. Tomorrow I'll have to double my efforts.
+
+**Link to work:** N/A
