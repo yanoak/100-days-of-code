@@ -18,7 +18,7 @@
 
 ### Day 2: 19 December 2017 (Tuesday)
 
-**Today's Progress:** Added functionality 
+**Today's Progress:** Added functionality for toggling depth of the network
 
 **Thoughts:** First day that I felt I put in a bit of effort.
 
