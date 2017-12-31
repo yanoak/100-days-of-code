@@ -108,7 +108,7 @@
 
 **Today's Progress:** Hover and click navigation of network done
 
-**Thoughts:** The network viz tool has got most of the functionality I wanted. Showed my wife to see if the UI was intuitive and she seemed really confused to gotta work on that.
+**Thoughts:** The network viz tool has got most of the functionality I wanted. Showed my wife to see if the UI was intuitive and she seemed really confused, so gotta work on that.
 
 **Link to work:** [Jade Companies Network](https://github.com/yanoak/jade-company-network/commit/3a605ee379a9a45514fee3d85ac92ad258a29d20)
 
