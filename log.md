@@ -120,3 +120,12 @@
 
 **Link to work:** [Jade Companies Network](https://github.com/yanoak/jade-company-network/commit/032068ebbd68b68a3f1fb2c604a06e4bf730bc26)
 
+### Day 15: 1 January 2018 (Monday)
+
+**Today's Progress:** Implemented opening of new network from nodes.
+
+**Thoughts:** Finished all the features I wanted to implement for the prototype version of this tool - yay!
+
+**Link to work:** [Jade Companies Network](https://github.com/yanoak/jade-company-network/commit/d21b0d22a3fff03c1cefc424430d8b773b3618a5)
+
+
