@@ -164,7 +164,7 @@
 
 ### Day 20: 6 January 2018 (Saturday)
 
-**Today's Progress: All charts added to licenses explorer tool
+**Today's Progress:** All charts added to licenses explorer tool
 
 **Thoughts:** Prototype of mining licenses explorer is done, but it would be good to add cleaned data from MGE website too. May will get intern to help me with it next week.
 
