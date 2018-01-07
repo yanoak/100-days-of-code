@@ -128,4 +128,53 @@
 
 **Link to work:** [Jade Companies Network](https://github.com/yanoak/jade-company-network/commit/d21b0d22a3fff03c1cefc424430d8b773b3618a5)
 
+### Day 16: 2 January 2018 (Tuesday)
 
+**Today's Progress:** Cloned the Facebook media pages dc.js exploratory dashboard.
+
+**Thoughts:** Slow start for the license explorer tool.
+
+**Link to work:** [Mining Licenses Explorer](https://github.com/yanoak/jade-licenses/commit/cf0a871991a4bea8e65020364b8629de926f7473)
+
+### Day 17: 3 January 2018 (Wednesday)
+
+**Today's Progress:** Cleaned and loaded 2014 EITI licenses data and basic charting and data table works.
+
+**Thoughts:** 
+
+**Link to work:** [Mining Licenses Explorer](https://github.com/yanoak/jade-licenses/commit/1c1696db88d210d51cf8c9ef6dc5cbaa9fb392ba)
+
+### Day 18: 4 January 2018 (Thursday)
+
+**Today's Progress:** None
+
+**Thoughts:** For shame. Trying to finish up all my leftoever report writing this weekend though.
+
+**Link to work:** N/A
+
+
+### Day 19: 5 January 2018 (Friday)
+
+**Today's Progress:** Added pie chart for selecting license type.
+
+**Thoughts:** 
+
+**Link to work:** [Mining Licenses Explorer](https://github.com/yanoak/jade-licenses/commit/8f81ad54e6b57d2c49bd83f91a67ea5283e4e5ee)
+
+
+### Day 20: 6 January 2018 (Saturday)
+
+**Today's Progress: All charts added to licenses explorer tool
+
+**Thoughts:** Prototype of mining licenses explorer is done, but it would be good to add cleaned data from MGE website too. May will get intern to help me with it next week.
+
+**Link to work:** [Mining Licenses Explorer](https://github.com/yanoak/jade-licenses/commit/cf65924adade0ffa83a024f94cedee1826668738)
+
+
+### Day 21: 7 January 2018 (Sunday)
+
+**Today's Progress:** Some small UI fixes.
+
+**Thoughts:** 
+
+**Link to work:** [Mining Licenses Explorer](https://github.com/yanoak/jade-licenses/commit/90e1cc836eb783dfe181a5c52e960cdeb5d1f531)
