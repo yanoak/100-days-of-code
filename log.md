@@ -178,3 +178,174 @@
 **Thoughts:** 
 
 **Link to work:** [Mining Licenses Explorer](https://github.com/yanoak/jade-licenses/commit/90e1cc836eb783dfe181a5c52e960cdeb5d1f531)
+
+
+### Day 22: 8 January 2018 (Monday)
+
+**Today's Progress:** Cleaned data for sankey visualisation of revenue flows
+
+**Thoughts:** 
+
+**Link to work:** [Jade Revenues Explorer](https://github.com/yanoak/jade-revenues/commit/082cd20f9d8a2405e143e68e16ee05ad8d374746)
+
+
+### Day 23: 9 January 2018 (Tuesday)
+
+**Today's Progress:** Implemented rough protoytpe of the sankey visualisation.
+
+**Thoughts:** Code mainly copy-pasted from my [US mandatory disclosures payments sankey viz](https://github.com/yanoak/mandatory-disclosures-US/tree/master/sankey).
+
+**Link to work:** [Jade Revenues Explorer](https://github.com/yanoak/jade-revenues/commit/9c8db8e78dd504627f5a956643f1e456384912df)
+
+
+### Day 24: 10 January 2018 (Wednesday)
+
+**Today's Progress:** None
+
+**Thoughts:** My laptop charger died. Have to wait until tomorrow before I can do any work.
+
+**Link to work:** N/A
+
+
+### Day 25: 11 January 2018 (Thursday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+### Day 26: 12 January 2018 (Friday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+### Day 27: 13 January 2018 (Saturday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+### Day 28: 14 January 2018 (Sunday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+### Day 29: 15 January 2018 (Monday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+### Day 30: 16 January 2018 (Tuesday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+### Day 31: 17 January 2018 (Wednesday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+### Day 32: 18 January 2018 (Thursday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+### Day 33: 19 January 2018 (Friday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+### Day 34: 20 January 2018 (Saturday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+### Day 35: 21 January 2018 (Sunday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+### Day 36: 22 January 2018 (Monday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+### Day 37: 23 January 2018 (Tuesday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+### Day 38: 24 January 2018 (Wednesday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+### Day 39: 25 January 2018 (Thursday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+
+### Day 40: 26 January 2018 (Friday)
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
