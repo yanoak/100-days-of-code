@@ -186,7 +186,7 @@
 
 **Thoughts:** 
 
-**Link to work:** [Jade Revenues Explorer](https://github.com/yanoak/jade-revenues/commit/082cd20f9d8a2405e143e68e16ee05ad8d374746)
+**Link to work:** [Mining Revenues Explorer](https://github.com/yanoak/jade-revenues/commit/082cd20f9d8a2405e143e68e16ee05ad8d374746)
 
 
 ### Day 23: 9 January 2018 (Tuesday)
@@ -195,7 +195,7 @@
 
 **Thoughts:** Code mainly copy-pasted from my [US mandatory disclosures payments sankey viz](https://github.com/yanoak/mandatory-disclosures-US/tree/master/sankey).
 
-**Link to work:** [Jade Revenues Explorer](https://github.com/yanoak/jade-revenues/commit/9c8db8e78dd504627f5a956643f1e456384912df)
+**Link to work:** [Mining Revenues Explorer](https://github.com/yanoak/jade-revenues/commit/9c8db8e78dd504627f5a956643f1e456384912df)
 
 
 ### Day 24: 10 January 2018 (Wednesday)
@@ -209,29 +209,29 @@
 
 ### Day 25: 11 January 2018 (Thursday)
 
-**Today's Progress:** 
+**Today's Progress:** Added revenue flows from MGE to central government in the sankey.
 
 **Thoughts:** 
 
-**Link to work:** []()
+**Link to work:** [Mining Revenues Explorer](https://github.com/yanoak/jade-revenues/commit/1ab5fe71d28735abf88d4a5a6648c85140bd41be)
 
 
 ### Day 26: 12 January 2018 (Friday)
 
-**Today's Progress:** 
+**Today's Progress:** None
 
-**Thoughts:** 
+**Thoughts:** For shame
 
-**Link to work:** []()
+**Link to work:** 
 
 
 ### Day 27: 13 January 2018 (Saturday)
 
-**Today's Progress:** 
+**Today's Progress:** Fixed tooltip so that it labels the sankey flows more clearly, differentiating between inflows and outflows
 
 **Thoughts:** 
 
-**Link to work:** []()
+**Link to work:** [Mining Revenues Explorer](https://github.com/yanoak/jade-revenues/commit/a166aa8d66cfae22474c75ef2ba1f86981523588)
 
 
 ### Day 28: 14 January 2018 (Sunday)
