@@ -236,56 +236,56 @@
 
 ### Day 28: 14 January 2018 (Sunday)
 
-**Today's Progress:** 
+**Today's Progress:** None
 
-**Thoughts:** 
+**Thoughts:** For shame. Finally finishing off some overdue reports, so in a few days I can do more coding.
 
-**Link to work:** []()
+**Link to work:** 
 
 
 ### Day 29: 15 January 2018 (Monday)
 
-**Today's Progress:** 
+**Today's Progress:** Forked csv-to-html-table repo and took a look at the code
 
-**Thoughts:** 
+**Thoughts:** Didn't actually do any coding. Bit of a lame excuse really.
 
 **Link to work:** []()
 
 
 ### Day 30: 16 January 2018 (Tuesday)
 
-**Today's Progress:** 
+**Today's Progress:** None
 
-**Thoughts:** 
+**Thoughts:** Ugh
 
-**Link to work:** []()
+**Link to work:** 
 
 
 ### Day 31: 17 January 2018 (Wednesday)
 
-**Today's Progress:** 
+**Today's Progress:** None
 
-**Thoughts:** 
+**Thoughts:** Sigh
 
-**Link to work:** []()
+**Link to work:** 
 
 
 ### Day 32: 18 January 2018 (Thursday)
 
-**Today's Progress:** 
+**Today's Progress:** None
 
-**Thoughts:** 
+**Thoughts:** This is getting really bad. I'm not even trying to bother making my github calendar look like I'm committing stuff
 
-**Link to work:** []()
+**Link to work:** 
 
 
 ### Day 33: 19 January 2018 (Friday)
 
-**Today's Progress:** 
+**Today's Progress:** None
 
-**Thoughts:** 
+**Thoughts:** Ok, last day of this shit. No more excuses tomorrow.
 
-**Link to work:** []()
+**Link to work:** 
 
 
 ### Day 34: 20 January 2018 (Saturday)
