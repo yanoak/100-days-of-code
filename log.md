@@ -4,6 +4,6 @@
 
 **Today's Progress:** Starting this repo
 
-**Thoughts:** Revived this old repo from 2017
+**Thoughts:** Revived this old repo from 2017. Configuring Github so that it tracks my commits with my account.
 
 **Link to work:** [100 Days of Code](https://github.com/yanoak/100-days-of-code)
