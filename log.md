@@ -2,6 +2,21 @@
 
 ### Day 0: 23 April 2024 (Tuesday)
 
+**Today's Progress:** Starting the challenge again because I fucked up. This is attempt number 2.
+
+**Thoughts:** Started a Sveltekit skeleton for a portfolio site with a markdown blog.
+
+**Link to work:** [Portfolio](https://github.com/yanoak/portfolio)
+
+
+
+
+---------------------------
+
+## First attempt that didn't go well
+
+### Day 0: 23 April 2024 (Tuesday)
+
 **Today's Progress:** Starting this repo
 
 **Thoughts:** Revived this old repo from 2017. Configuring Github so that it tracks my commits with my account.
