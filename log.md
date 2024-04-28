@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: 23 April 2024 (Tuesday)
+### Day 0: 27 April 2024 (Saturday)
 
 **Today's Progress:** Starting the challenge again because I fucked up. This is attempt number 2.
 
@@ -8,6 +8,14 @@
 
 **Link to work:** [Portfolio](https://github.com/yanoak/portfolio)
 
+
+### Day 1: 28 April 2024 (Sunday)
+
+**Today's Progress:** Set up Tailwind for Portfolio site.
+
+**Thoughts:** Set up Tailwind and started learning CSS from [Josh Comeau's course](https://css-for-js.dev/)
+
+**Link to work:** [Portfolio](https://github.com/yanoak/portfolio)
 
 
 
