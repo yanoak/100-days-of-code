@@ -18,6 +18,15 @@
 **Link to work:** [Portfolio](https://github.com/yanoak/portfolio)
 
 
+### Day 2: 29 April 2024 (Monday)
+
+**Today's Progress:** Export posts from Ghost blog.
+
+**Thoughts:** Export posts from Ghost blog and started learning CSS from [Josh Comeau's course](https://css-for-js.dev/) Chapter 1.
+
+**Link to work:** [Portfolio](https://github.com/yanoak/portfolio)
+
+
 
 ---------------------------
 
