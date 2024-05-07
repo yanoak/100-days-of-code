@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Third time's the charm!
+
+### Day 0: 6 May 2024 (Monday)
+
+**Today's Progress:**  Set up barebones skeleton for portfolio site
+
+**Thoughts:** Starting the challenge yet again because I fucked up. This is attempt number 3.
+
+**Grade:** ⭐
+
+**Link to work:** [Portfolio](https://github.com/yanoak/portfolio)
+
+---------------------------
+
+## Second attempt that didn't go well
+
 ### Day 0: 27 April 2024 (Saturday)
 
 **Today's Progress:** Starting the challenge again because I fucked up. This is attempt number 2.
